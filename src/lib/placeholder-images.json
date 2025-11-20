@@ -1,0 +1,46 @@
+{
+  "placeholderImages": [
+    {
+      "id": "landing-hero",
+      "description": "Abstract geometric shapes on a light background",
+      "imageUrl": "https://images.unsplash.com/photo-1595411425732-e69c1abe2763?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxhYnN0cmFjdCUyMGdlb21ldHJpY3xlbnwwfHx8fDE3NjMyMDIyNTh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "abstract geometric"
+    },
+    {
+      "id": "feature-1",
+      "description": "Icon representing contact management",
+      "imageUrl": "https://images.unsplash.com/photo-1762340273878-c98c78a45a1a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxpY29uJTIwdXNlcnxlbnwwfHx8fDE3NjMyMjE4NDF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "icon user"
+    },
+    {
+      "id": "feature-2",
+      "description": "Icon representing task management",
+      "imageUrl": "https://images.unsplash.com/photo-1760008486577-21baa8b560a5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxpY29uJTIwY2hlY2ttYXJrfGVufDB8fHx8MTc2MzIyMTg0MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "icon checkmark"
+    },
+    {
+      "id": "feature-3",
+      "description": "Icon representing dashboard analytics",
+      "imageUrl": "https://images.unsplash.com/photo-1687580712188-b15f16b1f2d9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxpY29uJTIwY2hhcnR8ZW58MHx8fHwxNzYzMjIxODQxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "icon chart"
+    },
+    {
+      "id": "resource-what-is-crm",
+      "description": "An abstract image representing customer relationships and data.",
+      "imageUrl": "https://images.unsplash.com/photo-1723987135977-ae935608939e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxkYXRhJTIwdXNlcnxlbnwwfHx8fDE3NjMyNzIxODJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "data user"
+    },
+    {
+      "id": "resource-getting-started",
+      "description": "An abstract image representing setting up and organizing a database.",
+      "imageUrl": "https://images.unsplash.com/photo-1729216205873-a69b634994e9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxkYXNoYm9hcmQlMjBzZXR1cHxlbnwwfHx8fDE3NjMyNzIxODN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "dashboard setup"
+    },
+    {
+      "id": "resource-integrations",
+      "description": "An abstract image showing different apps connecting together.",
+      "imageUrl": "https://images.unsplash.com/photo-1746608943012-966fe85ecf47?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxhcHBzJTIwY29ubmVjdGlvbnxlbnwwfHx8fDE3NjMyNzIxODN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "apps connection"
+    }
+  ]
+}
